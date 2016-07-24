@@ -7,3 +7,14 @@ Current KNOWN Issues:
 > There is no limitation on your ability to recruit robot armies before they turn evil; you're supposed to max out at four.
 > It's not clear if this is actually possible, but we'd like the appearance of the robot armies to turn off the planetary fortifications.
 > An event should probably occur if you ignore the siege project for too long.
+
+#comments by Malthus
+limit of recruited armies must work like the giant beasts
+the second line must not neccessarily be done
+we just need to tweak how strong the spawned armies are
+and how many to spawn
+this will need a lot of testing until it will feel right i think
+hmm the last one i don´t know if this is necessary
+i thought about a malus for the colony as long as the crisis is ongoing
+something like -100% science and minerals and energy
+this should make the player deal with the problem as fast as possible and it fits the situation
