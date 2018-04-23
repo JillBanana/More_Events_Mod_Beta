@@ -1,0 +1,9 @@
+l_english:
+ 
+ boiling_planet_category:0 "不尋常的地殼"
+ boiling_planet_desc:0 "星球表面上的地殼活動跟我們的模擬結果不同，對於這類星球來說是極不尋常。"
+ mem_boiling.2.title:0 "失敗"
+ mem_boiling.2.desc:0 "儘管我們最大的努力，[Root.GetName]的成員都未能夠在[From.From.GetName]的表面上找到任何不尋常的事情。"
+ mem_boiling.2.option:0 "令人失望。"
+ mem_boiling.1.title:0 "The Boiling Planet"
+ mem_boiling.1.desc:0 "經過深入勘探後，我們發現[From.From.GetName]並不是我們想像中只是「冰封」那麼簡單。我們當初誤以為是外殼的表面，其實原來是一片冰層覆蓋著整個遼闊的海洋。我們亦發現，星球的大部分質量都是由水所形成，由一個過熱極及為活躍的核心不斷製造一定的地熱。水份於核心附近蒸發，並在上升至表面期間逐漸冷卻，最後冰結成厚達數千公里的冰層。"
